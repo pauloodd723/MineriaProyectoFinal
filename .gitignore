@@ -1,0 +1,20 @@
+# Archivos grandes de datos
+MineriaProyectoFinal_clean.csv
+
+# Archivos de Python compilados
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Archivos de entorno virtual
+env/
+venv/
+.venv/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
