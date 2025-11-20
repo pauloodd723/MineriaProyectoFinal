@@ -93,3 +93,7 @@ Enviar peticiones POST con los datos del cliente/producto para recibir prediccio
 
 ## Enlace Colab
 https://colab.research.google.com/drive/1ZIP-udCF2yvgSkrtQefxjKo2I7sqJrF5?usp=sharing
+
+## Enlace Documento 
+
+https://docs.google.com/document/d/1q5GhT3BCLrZ4tNCMwXJW883blLKVjmH3RBDDfAZPTU4/edit?usp=sharing
